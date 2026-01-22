@@ -8,7 +8,7 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
-export EDITOR='nano'
+export EDITOR='nvim'
 
 # -------
 # Aliases
