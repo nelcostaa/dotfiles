@@ -1,0 +1,15 @@
+a2ps
+fastfetch
+fd
+fzf
+gh
+imagemagick
+luarocks
+neovim
+pipx
+ripgrep
+tree-sitter-cli
+vite
+zoxide
+zsh-autosuggestions
+zsh-syntax-highlighting
